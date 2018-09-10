@@ -1,3 +1,4 @@
+# base image
 FROM node:8-slim
 
 # See https://crbug.com/795759
